@@ -6,7 +6,7 @@
 ### Features
 Clip Highlighted Text: Highlight text in emails or web pages, and with just a few clicks, add it to your to-do list.
 
-###Natural Language Processing: Swiftly automatically processes the clipped text to extract the essential task information, simplifying your tasks.
+### Natural Language Processing: Swiftly automatically processes the clipped text to extract the essential task information, simplifying your tasks.
 
 ### Task Management: Organize your tasks with ease. You can star important tasks, cross out completed ones, and delete tasks.
 
