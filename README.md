@@ -1,6 +1,6 @@
 # Swiftly
 
-Description
+
 Swiftly is a handy Chrome extension designed to simplify task management workflow. With this extension, you can easily clip highlighted text, typically from emails or web pages, and seamlessly add them to your to-do list. Swiftly leverages natural language processing to extract and present only the essential task details, making your to-do list clean and straightforward.
 
 Features
