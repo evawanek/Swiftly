@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/0b03a491da.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+   
+</head>
+<body id="body">
+    
+    <div id="todo-container" class="todo-container">
+
+        
+        <span id="check" class="material-symbols-outlined">task_alt</span>
+        <span class= "htp">My Tasks</span>
+        <button id="moon" class="material-symbols-outlined darkmode">dark_mode</button>
+        <button id="sun" class="material-symbols-outlined lightmode">light_mode</button>
+        <p class="date" id="current_date"></p>
+        <hr class="divider">
+        <div id="add" class="add">
+            <p type="text" id="new-task" class="new-task" contenteditable="true"></p>
+            <button class="new-task-add" id="new-task-add">Add</button>
+        </div>
+
+        
+        <div class="task">
+            <input type="checkbox" id="button1" />
+            <p contenteditable="true">Finish the new drafts and make sure they are in order for the client.</p>
+            <button class="material-symbols-outlined mydelete" style="font-size:20px;">delete</button>
+            <button class="material-symbols-outlined star" style="font-size:20px;">star</button>
+        
+          </div>
+
+          <div class="task">
+            <input type="checkbox" id="button2" />
+            <p contenteditable="true">Organize Tuesday's meeting</p>
+                <button class="material-symbols-outlined mydelete" style="font-size:20px;">delete</button>
+                <button class="material-symbols-outlined star" style="font-size:20px;">star</button>
+          </div>
+
+         
+        
+    
+
+       
+
+      
+    </div>
+    </div>
+</body>
+<script type="module" src="content.js"></script>
+<script type="module" src="background.js"></script>
+</html>
+
